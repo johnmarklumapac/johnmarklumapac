@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Mark Lumapac</h1>
 <h3 align="center">A fresh grad  full-stack developer and coffee lover from the Philippines.</h3>
-<img align="center" alt="Coding" width="400" src="[https://media3.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif?cid=ecf05e47b0qq5lg1ne43t7aik7dh15zlxvoxlih3772k8qbe&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oa47c33xytpteoohdm4co6ru5acknzm0h4367q33&ep=v1_gifs_related&rid=giphy.gif&ct=g)">
+<img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oa47c33xytpteoohdm4co6ru5acknzm0h4367q33&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnmarklumapac&label=Profile%20views&color=0e75b6&style=flat" alt="johnmarklumapac" /> </p>
 
