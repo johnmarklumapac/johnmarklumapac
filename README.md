@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Mark Lumapac</h1>
-<h3 align="center">A fresh grad Full-stack developer from Philippines.</h3>
+<h3 align="center">A fresh grad  full-stack developer and coffee lover from Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnmarklumapac&label=Profile%20views&color=0e75b6&style=flat" alt="johnmarklumapac" /> </p>
 
